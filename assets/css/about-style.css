@@ -777,3 +777,8 @@ section,
 .careers .icon-box .read-more:hover i {
     margin-left: 10px;
 }
+
+.career-color{
+    color: #0087ad;
+    font-weight: bold;
+}
