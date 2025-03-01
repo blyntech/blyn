@@ -782,3 +782,11 @@ section,
     color: #0087ad;
     font-weight: bold;
 }
+
+/* ----------blogs------------- */
+
+.about-card-body .blog-img{
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
